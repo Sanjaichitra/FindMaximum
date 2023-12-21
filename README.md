@@ -50,10 +50,18 @@ def max_marks(list1):
  
 ![Screenshot 2023-12-21 211224](https://github.com/Sanjaichitra/FindMaximum/assets/144870518/8902c7ed-ebb2-4194-9264-6365339ca4b2)
 
+
+
+
+
  Program to find the maximum marks using the list method max()
 
 
 ![Screenshot 2023-12-21 211948](https://github.com/Sanjaichitra/FindMaximum/assets/144870518/ef4a4211-a27d-4021-bc64-62e8f9c7815e)
+
+
+
+
 
  Program to the maximum marks without using builtin functions
 
